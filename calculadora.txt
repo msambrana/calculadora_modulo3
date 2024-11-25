@@ -1,9 +1,0 @@
-# Comando para alterar permissões para 644
-chmod 644 calculadora.sh
-
-# Comando para tornar o arquivo executável para o proprietário
-chmod u+x calculadora.sh
-
-# Comando para executar o script
-./calculadora.sh
-
